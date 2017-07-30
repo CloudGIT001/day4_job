@@ -1,0 +1,6 @@
+staff_id,name,age,phone,dept,enroll_date
+1,xiess,25,12312312312,it,2016-12-12
+2,alexli,22,15800220133,it,2013-01-01
+3,jackwang,30,13304320533,hr,2015-05-03
+4,rainliu,25,1383235322,sales,2016-04-25
+5,mackcao,40,1356145343,hr,2009-03-01
